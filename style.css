@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+    color: white; 
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+#box{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
